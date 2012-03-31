@@ -54,7 +54,7 @@
     "read": "0",
     "lru-cache": "1",
     "node-gyp": "~0.3.7",
-    "fstream-npm": "git+https://github.com/grncdr/fstream-npm.git#hackety",
+    "fstream-npm": "git+https://github.com/grncdr/fstream-npm.git#patch-1",
     "uid-number": "0",
     "archy": "0",
     "chownr": "0"
