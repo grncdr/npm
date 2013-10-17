@@ -76,7 +76,7 @@
     "npm-user-validate": "0.0.3",
     "github-url-from-git": "1.1.1",
     "update-package-json": "0.0.0",
-    "npm-exec": "~0.1.0"
+    "npm-exec": "~0.1.1"
   },
   "bundleDependencies": [
     "semver",
